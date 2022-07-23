@@ -1,7 +1,7 @@
 
-# Whatsapp UI
+# chat_app UI
 
-A completely Responsive Whatsapp UI App- works on Android, iOS, Web & Desktop! Works as WhatsApp App on Smaller Screen Sizes and WhatsApp Web on Bigger Screen Sizes!
+A completely Responsive chat_app UI App- works on Android, iOS, Web & Desktop! Works as chat_app App on Smaller Screen Sizes and chat_app Web on Bigger Screen Sizes!
 
 
 
@@ -12,12 +12,12 @@ https://hungry-lichterman-63f0f3.netlify.app/#/
 I have created a tutorial based on this, do check it out on my channel [Rivaan Ranawat](https://www.youtube.com/watch?v=g1hmeP8WZHU) 
 
 <p align="center">
-  <img width="600" src="https://github.com/RivaanRanawat/whatsapp-flutter-ui/blob/main/screenshot.jpg" alt="Youtube Tutorial Image">
+  <img width="600" src="https://github.com/RivaanRanawat/chat_app-flutter-ui/blob/main/screenshot.jpg" alt="Youtube Tutorial Image">
 </p>
 
 
 ## Installation
-After cloning this repository, migrate to ```whatsapp-flutter-ui``` folder. There, run the following commands:
+After cloning this repository, migrate to ```chat_app-flutter-ui``` folder. There, run the following commands:
 ```bash
   flutter pub get
   open -a simulator (to get iOS Simulator)
