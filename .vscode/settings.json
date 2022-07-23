@@ -1,0 +1,6 @@
+{
+    "problems.showCurrentInStatus": true,
+    "dart.flutterSdkPath": ".fvm/flutter_sdk",
+    "less.lint.duplicateProperties": "warning",
+    "search.useIgnoreFiles": false
+}
